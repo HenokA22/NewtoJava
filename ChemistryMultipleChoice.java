@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// made a multiple choice game that gives the user another try is wrong. Used while loop , else, if condistionals to create this program. 
 public class ChemistryMultipleChoice {
     public static void main(String[] args) {
     String question = "What is correct molecular formula for Nitrate " + "A.) (NO2)^-1" + " B.) (NO3)^-1" + " C.) (NO)^-1";
